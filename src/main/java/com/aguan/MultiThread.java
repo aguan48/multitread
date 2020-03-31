@@ -4,8 +4,12 @@ package com.aguan;
 /**
  * 线程创建的两种方式 * 1.继承Tread类
  * 2.实现Runable接口
+ * 这两种接口的区别：
+ * 适合多个线程去处理同一资源
+ * 解决单继承的局限性
+ * 代码多个线程共享，代码与数据独立的。
  */
-public class multitread {
+public class MultiThread {
     /**
      * 继承Thread类建立简单的线程
      */
