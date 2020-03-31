@@ -1,4 +1,4 @@
-package com.aguan;
+package com.aguan.thread;
 
 /**
  * 继承Tread和实现Runnable接口有何不同
