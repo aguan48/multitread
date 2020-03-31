@@ -16,7 +16,6 @@ public class multitread {
         //覆盖父类的run方法
         public void run(){
             System.out.println("我的第一个线程:"+getName());
-
         }
     }
     /**
