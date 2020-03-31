@@ -3,7 +3,6 @@ package com.aguan;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
-
 /**
  * 实现callable接口，进行线程的创建
  */
